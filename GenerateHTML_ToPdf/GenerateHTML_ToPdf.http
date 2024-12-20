@@ -1,0 +1,6 @@
+@GenerateHTML_ToPdf_HostAddress = http://localhost:5198
+
+GET {{GenerateHTML_ToPdf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
